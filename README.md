@@ -8,23 +8,24 @@
 
 ## ✨ Features
 
-* 🔍 Browse and search available properties
-* 🏠 List rooms, villas, and homes
-* 👤 User authentication and authorization
-* 📍 Property details and locations
-* 🖼️ Property image uploads
-* ⭐ Reviews and ratings
-* 🔐 Secure JWT-based authentication
-* ☁️ MongoDB Atlas database
+- 🔍 Browse and search available properties
+- 🏠 List rooms, villas, and homes
+- 👤 User authentication and authorization
+- 📍 Property details and locations through (Map)
+- 🖼️ Property image uploads
+- ⭐ Reviews and ratings
+- 🔐 Secure JWT-based authentication
+- ☁️ MongoDB Atlas database
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript, EJS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB, Mongoose
-* **Authentication:** JWT
-* **File Uploads:** Multer
-* **Deployment:** Render
+- **Frontend:** HTML, CSS, JavaScript, EJS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT
+- **File Uploads:** Multer
+- **Deployment:** Render
+- **MAP:** Map API used -> to display locations
 
 ## 📂 Project Structure
 
@@ -62,4 +63,3 @@ Zenvia Living aims to make finding and listing accommodations **simple, accessib
 ### 👨‍💻 Author
 
 **Bibek Chauhan**
-
